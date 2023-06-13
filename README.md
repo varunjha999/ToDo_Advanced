@@ -39,6 +39,9 @@ Obs.: currently, the "edit task" and adding or removing categories functionaliti
 3. npm install /  yarn install
 4. npm start / yarn start 
 
+# if application not work  
+
+clear local storage . 
 
 
 
